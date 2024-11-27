@@ -10,7 +10,7 @@ if "conversation_history" not in st.session_state:
     st.session_state.conversation_history = []
 
 # Create a Streamlit app
-st.title("Virtual girl friend")
+st.title("Virtual boy friend")
 
 # Set up the Hugging Face API client
 api_key = "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"
